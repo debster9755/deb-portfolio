@@ -57,6 +57,13 @@ const products: Product[] = [
       { label: "Web Performance", variant: "warning" },
       { label: "Core Web Vitals", variant: "pink" },
     ],
+    links: [
+      {
+        label: "Live Blog",
+        href: "https://www.akamai.com/blog/performance/akamai-early-hints-improving-user-experience",
+        icon: "external",
+      },
+    ],
   },
   {
     name: "CA11yFlow",
@@ -100,6 +107,13 @@ const products: Product[] = [
       { label: "DevSecOps", variant: "warning" },
       { label: "Enterprise Software", variant: "pink" },
     ],
+    links: [
+      {
+        label: "Read Article",
+        href: "https://medium.com/@debayan2k/tech-series-from-audit-to-action-building-ca11yflow-an-ai-powered-accessibility-guardian-cb0908dbdf07",
+        icon: "external",
+      },
+    ],
   },
   {
     name: "ARC-PM",
@@ -121,6 +135,11 @@ const products: Product[] = [
       { label: "Multilingual", variant: "pink" },
     ],
     links: [
+      {
+        label: "Live App",
+        href: "https://arc-pm.vercel.app/",
+        icon: "external",
+      },
       {
         label: "GitHub",
         href: "https://github.com/debster9755/arc-pm",
@@ -148,6 +167,11 @@ const products: Product[] = [
     ],
     links: [
       {
+        label: "Live App",
+        href: "https://innovateassess-ai.vercel.app/",
+        icon: "external",
+      },
+      {
         label: "GitHub",
         href: "https://github.com/debster9755/innovateassess-ai",
         icon: "github",
@@ -173,6 +197,11 @@ const products: Product[] = [
       { label: "Multilingual", variant: "pink" },
     ],
     links: [
+      {
+        label: "Live App",
+        href: "https://reg-pm.vercel.app/",
+        icon: "external",
+      },
       {
         label: "GitHub",
         href: "https://github.com/debster9755/RegPM",
